@@ -1,0 +1,9 @@
+@charset "ISO-8859-1";
+body {
+    background-color: grey;
+    color: white;
+}
+   img {
+   height:400px;
+   width:350px;
+   }
